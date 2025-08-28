@@ -1,0 +1,38 @@
+npm install mongoose
+npm install --save-dev @types/mongoose
+npm install express
+npm install --save-dev typescript @types/node @types/express ts-node
+npm install cors
+npm install --save-dev @types/cors
+
+npm install dotenv
+npm install --save-dev @types/dotenv
+
+npm install ejs
+npm install --save-dev @types/ejs
+
+
+
+npm install passport-local-mongoose passport-local passport jsonwebtoken passport-jwt
+npm install --save-dev @types/passport-local-mongoose @types/passport-local @types/passport @types/jsonwebtoken @types/passport-jwt
+
+npm install body-parser
+npm install --save-dev @types/body-parser
+
+tsconfig.json
+
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": true,
+    "esModuleInterop": true
+  }
+}
+
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "dev": "nodemon --exec ts-node src/index.ts"
+  },
