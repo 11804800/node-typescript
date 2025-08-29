@@ -5,9 +5,13 @@ enum FoodCategory {
   Pasta = 'Pasta',
   Coffee = 'Coffee',
   Burritto = 'Burritto',
-  Brownies = 'Brownies',
+  Desserts = 'Desserts',
   Salad = 'Salad',
-  FastFood="FastFood"
+  FastFood="FastFood",
+  Snacks="Snacks",
+  Beverages="Beverages",
+  MainCourse="Main Course",
+  Sandwiches="Sandwiches"
 }
 
 export interface DishInterface extends Document{

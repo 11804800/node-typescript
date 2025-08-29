@@ -1,0 +1,532 @@
+[
+  {
+    "id": 0,
+    "name": "Vodka raspberry mojito",
+    "category": "Beverages",
+    "description": "A refreshing cocktail blending vodka with the sweet tang of raspberries, garnished with fresh mint. Perfect for hot days or special evenings. Crafted with premium ingredients for a smooth taste.",
+    "label": "Best Refreshing Drink",
+    "price": 8.99,
+    "featured": true,
+    "image": "/images/Vodka_raspberry_mojito.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Veg Salad",
+    "category": "Salad",
+    "description": "A healthy mix of fresh vegetables including lettuce, tomatoes, cucumbers, and carrots. Lightly seasoned with olive oil and lemon juice. Ideal for a quick, nutritious meal.",
+    "label": "Fresh & Healthy",
+    "price": 6.50,
+    "featured": false,
+    "image": "/images/Veg_salad.png"
+  },
+  {
+    "id": 2,
+    "name": "Veg Wrap",
+    "category": "Snacks",
+    "description": "A soft wrap filled with assorted fresh vegetables and a tangy sauce. Perfect for a quick lunch or snack on the go. Vegetarian and delicious.",
+    "label": "Healthy Snack",
+    "price": 5.99,
+    "featured": false,
+    "image": "/images/veg_wrap.png"
+  },
+  {
+    "id": 3,
+    "name": "Tomato Pizza",
+    "category": "Pizza",
+    "description": "A classic pizza topped with fresh tomato slices, mozzarella cheese, and basil. Crispy crust with a flavorful tomato sauce. A favorite among pizza lovers.",
+    "label": "Best Pizza Choice",
+    "price": 12.99,
+    "featured": true,
+    "image": "/images/Tomato_Pizza.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Tiramisu cake",
+    "category": "Desserts",
+    "description": "An Italian classic layered with espresso-soaked ladyfingers and mascarpone cheese. Topped with cocoa powder for a rich, indulgent treat. Perfect for dessert lovers.",
+    "label": "Delicious Dessert",
+    "price": 6.75,
+    "featured": false,
+    "image": "/images/Tiramisu_cake.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Tea",
+    "category": "Beverages",
+    "description": "A hot cup of brewed tea, available in various flavors. Perfect to relax or start your day. Made from high-quality leaves for a soothing experience.",
+    "label": "Best Hot Beverage",
+    "price": 2.50,
+    "featured": false,
+    "image": "/images/Tea.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Strawberry mojito",
+    "category": "Beverages",
+    "description": "A fruity twist on the classic mojito with fresh strawberries, mint, lime, and rum. Refreshing and sweet, perfect for summer evenings.",
+    "label": "Best Summer Drink",
+    "price": 9.50,
+    "featured": true,
+    "image": "/images/Strawberry_mojito.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Splitza Signature",
+    "category": "Pizza",
+    "description": "Our signature pizza with a special blend of cheeses, meats, and fresh vegetables. Crispy crust baked to perfection. A must-try for pizza enthusiasts.",
+    "label": "Signature Dish",
+    "price": 15.99,
+    "featured": false,
+    "image": "/images/Splitza_Signature.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Spinch",
+    "category": "Salad",
+    "description": "A vibrant spinach salad with cherry tomatoes, feta cheese, and a light vinaigrette. Nutritious and flavorful, perfect as a side or main.",
+    "label": "Healthy & Tasty",
+    "price": 7.25,
+    "featured": false,
+    "image": "/images/spinch.png"
+  },
+  {
+    "id": 9,
+    "name": "Spaghetti",
+    "category": "Pasta",
+    "description": "Classic spaghetti pasta tossed in a rich tomato sauce with herbs. Topped with grated Parmesan cheese. An Italian staple loved worldwide.",
+    "label": "Best Pasta",
+    "price": 11.50,
+    "featured": true,
+    "image": "/images/Spaghetti.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Shrimp salad",
+    "category": "Salad",
+    "description": "A flavorful salad with fresh shrimp, mixed greens, cucumbers, and a zesty dressing. Light yet satisfying, perfect for seafood lovers.",
+    "label": "Seafood Special",
+    "price": 13.99,
+    "featured": false,
+    "image": "/images/Shrimp_salad.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Salmon vegetable salad",
+    "category": "Salad",
+    "description": "Grilled salmon served over a bed of fresh vegetables and greens. Drizzled with lemon vinaigrette for a healthy and delicious meal.",
+    "label": "Healthy Choice",
+    "price": 14.50,
+    "featured": false,
+    "image": "/images/Salmon_vegetable_salad.jpg"
+  },
+  {
+    "id": 12,
+    "name": "salmon superfood salad",
+    "category": "Salad",
+    "description": "A nutrient-packed salad with superfoods, grilled salmon, quinoa, and mixed greens. A super healthy and filling option.",
+    "label": "Superfood Boost",
+    "price": 16.25,
+    "featured": false,
+    "image": "/images/salmon_superfood_salad.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Salmon Caeser Salad",
+    "category": "Salad",
+    "description": "A twist on the classic Caesar with grilled salmon, romaine lettuce, croutons, and Parmesan. Rich and satisfying.",
+    "label": "Best Seafood Salad",
+    "price": 15.75,
+    "featured": false,
+    "image": "/images/salmon_caeser_salad.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Risotto pizza",
+    "category": "Pizza",
+    "description": "A fusion pizza featuring creamy risotto toppings, mozzarella, and herbs on a crispy crust. Unique and flavorful.",
+    "label": "Creative Pizza",
+    "price": 14.99,
+    "featured": false,
+    "image": "/images/Risotto_pizza.jpeg"
+  },
+  {
+    "id": 15,
+    "name": "Risotto",
+    "category": "Main Course",
+    "description": "Creamy Italian risotto cooked with Parmesan cheese and saffron. Rich, comforting, and perfect for a hearty meal.",
+    "label": "Best Risotto",
+    "price": 13.50,
+    "featured": true,
+    "image": "/images/Risotto.jpeg"
+  },
+  {
+    "id": 16,
+    "name": "Red heart cake",
+    "category": "Desserts",
+    "description": "A delightful red velvet cake topped with cream cheese frosting. Perfect for romantic occasions and celebrations.",
+    "label": "Sweet & Romantic",
+    "price": 7.99,
+    "featured": false,
+    "image": "/images/Red_heart_cake.jpeg"
+  },
+  {
+    "id": 17,
+    "name": "Ravioli",
+    "category": "Pasta",
+    "description": "Delicate pasta pockets filled with cheese and herbs, served with a savory sauce. A true Italian delicacy.",
+    "label": "Best Ravioli",
+    "price": 12.75,
+    "featured": false,
+    "image": "/images/Ravioli.jpeg"
+  },
+  {
+    "id": 18,
+    "name": "Raspberry mojito",
+    "category": "Beverages",
+    "description": "A fruity cocktail with fresh raspberries, mint, lime, and rum. Refreshing and vibrant, perfect for summer nights.",
+    "label": "Best Fruit Drink",
+    "price": 9.00,
+    "featured": true,
+    "image": "/images/Raspberry_mojito.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Rasgulla",
+    "category": "Desserts",
+    "description": "Soft, spongy Indian sweets soaked in sugar syrup. Light, sweet, and melt-in-the-mouth treat.",
+    "label": "Best Sweets",
+    "price": 4.50,
+    "featured": false,
+    "image": "/images/Rasgulla.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Pesto Chicken Wrap",
+    "category": "Snacks",
+    "description": "Grilled chicken with fresh pesto sauce wrapped in a soft flatbread. Delicious and filling for a quick meal.",
+    "label": "Healthy & Tasty",
+    "price": 6.99,
+    "featured": false,
+    "image": "/images/pesto_chicken_wrap.jpeg"
+  },
+  {
+    "id": 21,
+    "name": "Pepperoni pizza",
+    "category": "Pizza",
+    "description": "A classic pizza topped with spicy pepperoni slices, mozzarella, and tomato sauce. Crispy crust and bold flavors.",
+    "label": "Best Pizza",
+    "price": 13.99,
+    "featured": true,
+    "image": "/images/Pepperoni_pizza.jpeg"
+  },
+  {
+    "id": 22,
+    "name": "Penne alla vodka",
+    "category": "Pasta",
+    "description": "Penne pasta in a creamy tomato and vodka sauce, topped with herbs and Parmesan. Rich and flavorful.",
+    "label": "Creamy & Delicious",
+    "price": 12.99,
+    "featured": false,
+    "image": "/images/Penne_alla_vodka.jpeg"
+  },
+  {
+    "id": 23,
+    "name": "Penne Pasta with Chicken",
+    "category": "Pasta",
+    "description": "Penne pasta cooked with tender chicken pieces and a savory sauce. Filling and satisfying meal.",
+    "label": "Protein Packed",
+    "price": 13.50,
+    "featured": false,
+    "image": "/images/penne_pasta_with_chicken.jpeg"
+  },
+  {
+    "id": 24,
+    "name": "Pasta with Chicken Meat and Vegetables",
+    "category": "Pasta",
+    "description": "A nutritious pasta dish with chicken, vegetables, and herbs. Hearty and wholesome.",
+    "label": "Healthy Meal",
+    "price": 14.25,
+    "featured": false,
+    "image": "/images/pasta_with_chicken_meat_and_vegetables.jpeg"
+  },
+  {
+    "id": 25,
+    "name": "Panna cotta with berries",
+    "category": "Desserts",
+    "description": "Creamy Italian panna cotta topped with fresh mixed berries. A smooth, delightful dessert.",
+    "label": "Best Dessert",
+    "price": 6.50,
+    "featured": false,
+    "image": "/images/Panna_cotta_with_berries.jpeg"
+  },
+  {
+    "id": 26,
+    "name": "Paneer salad",
+    "category": "Salad",
+    "description": "Fresh salad with paneer cubes, mixed greens, and a tangy dressing. Vegetarian and nutritious.",
+    "label": "Vegetarian Delight",
+    "price": 7.75,
+    "featured": false,
+    "image": "/images/paneer_salad.png"
+  },
+  {
+    "id": 27,
+    "name": "Pan Fried Chicken Salad",
+    "category": "Salad",
+    "description": "Crispy pan-fried chicken served over fresh greens with a zesty dressing. Filling and flavorful.",
+    "label": "Best Chicken Salad",
+    "price": 13.50,
+    "featured": false,
+    "image": "/images/pan_fried_chicken_salad.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Mozzarella Cheese Pizza",
+    "category": "Pizza",
+    "description": "Simple yet delicious pizza topped with melted mozzarella cheese and tomato sauce. Classic favorite.",
+    "label": "Best Cheese Pizza",
+    "price": 12.50,
+    "featured": false,
+    "image": "/images/Mozzarella_Cheese_pizza.jpeg"
+  },
+  {
+    "id": 29,
+    "name": "Margherita pizza",
+    "category": "Pizza",
+    "description": "Traditional Italian pizza with fresh tomatoes, mozzarella, basil, and olive oil. Light and flavorful.",
+    "label": "Classic Pizza",
+    "price": 11.99,
+    "featured": false,
+    "image": "/images/Margherita_pizza.jpeg"
+  },
+  {
+    "id": 30,
+    "name": "Linguine",
+    "category": "Pasta",
+    "description": "Linguine pasta served with a variety of sauces, from marinara to creamy Alfredo. Versatile and delicious.",
+    "label": "Popular Pasta",
+    "price": 12.50,
+    "featured": false,
+    "image": "/images/Linguine.jpeg"
+  },
+  {
+    "id": 31,
+    "name": "Lemon spinch",
+    "category": "Salad",
+    "description": "A fresh spinach salad with lemon vinaigrette, lemon slices, and herbs. Light and zesty.",
+    "label": "Fresh & Zesty",
+    "price": 6.99,
+    "featured": false,
+    "image": "/images/Lemon_spinch.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Latte coffee",
+    "category": "Beverages",
+    "description": "A creamy coffee drink with steamed milk and rich espresso. Perfect for a relaxing break.",
+    "label": "Best Coffee",
+    "price": 3.50,
+    "featured": false,
+    "image": "/images/Latte_coffee.jpeg"
+  },
+  {
+    "id": 33,
+    "name": "Italian Risotto pasta",
+    "category": "Main Course",
+    "description": "Creamy risotto made with Italian herbs, Parmesan, and a hint of saffron. Comforting and flavorful.",
+    "label": "Authentic Risotto",
+    "price": 13.75,
+    "featured": false,
+    "image": "/images/Italian_Risotto_pasta.jpeg"
+  },
+  {
+    "id": 34,
+    "name": "Italian Pizza",
+    "category": "Pizza",
+    "description": "Traditional Italian pizza with fresh ingredients, including tomatoes, mozzarella, and basil on a thin crust.",
+    "label": "Authentic Italian",
+    "price": 12.99,
+    "featured": false,
+    "image": "/images/Italian_Pizza.jpeg"
+  },
+  {
+    "id": 35,
+    "name": "Indian gulab jamun",
+    "category": "Desserts",
+    "description": "Soft, deep-fried milk balls soaked in sugar syrup infused with rose water. A sweet Indian delicacy.",
+    "label": "Sweet & Rich",
+    "price": 4.25,
+    "featured": false,
+    "image": "/images/Indian_gulab_jamun.jpeg"
+  },
+  {
+    "id": 36,
+    "name": "Gnoochi",
+    "category": "Pasta",
+    "description": "Soft Italian potato dumplings served with a sage butter or tomato sauce. Comfort food at its best.",
+    "label": "Classic Gnocchi",
+    "price": 13.00,
+    "featured": false,
+    "image": "/images/Gnoochi.jpeg"
+  },
+  {
+    "id": 37,
+    "name": "Fusilli",
+    "category": "Pasta",
+    "description": "Corkscrew-shaped pasta cooked with a variety of sauces, from pesto to marinara. Delicious and versatile.",
+    "label": "Popular Pasta",
+    "price": 12.75,
+    "featured": false,
+    "image": "/images/Fusilli.jpeg"
+  },
+  {
+    "id": 38,
+    "name": "Fresh pesto chicken salad",
+    "category": "Salad",
+    "description": "Grilled chicken with fresh basil pesto, mixed greens, and cherry tomatoes. Healthy and flavorful.",
+    "label": "Healthy & Delicious",
+    "price": 14.00,
+    "featured": false,
+    "image": "/images/fresh_pesto_chicken_salad.jpeg"
+  },
+  {
+    "id": 39,
+    "name": "Chicken and bacon pizza with barbecue",
+    "category": "Pizza",
+    "description": "A smoky pizza topped with chicken, bacon, and barbecue sauce. Rich, savory, and satisfying.",
+    "label": "BBQ Special",
+    "price": 15.99,
+    "featured": true,
+    "image": "/images/Chicken_and_bacon_pizza_with_barbecue.jpeg"
+  },
+  {
+    "id": 40,
+    "name": "Fettuccine",
+    "category": "Pasta",
+    "description": "Flat, thick pasta served with creamy Alfredo or tomato-based sauces. Classic Italian comfort food.",
+    "label": "Rich & Creamy",
+    "price": 13.50,
+    "featured": false,
+    "image": "/images/Fettuccine.jpeg"
+  },
+  {
+    "id": 41,
+    "name": "Farfalle",
+    "category": "Pasta",
+    "description": "Bow-tie pasta paired with a variety of sauces, from light olive oil to rich cream sauces. Delicious and fun.",
+    "label": "Versatile Pasta",
+    "price": 12.99,
+    "featured": false,
+    "image": "/images/Farfalle.jpeg"
+  },
+  {
+    "id": 42,
+    "name": "Eton mess",
+    "category": "Desserts",
+    "description": "A light and airy dessert with whipped cream, strawberries, and meringue pieces. Perfect for summer.",
+    "label": "Fresh & Sweet",
+    "price": 5.75,
+    "featured": false,
+    "image": "/images/Eton_mess.jpeg"
+  },
+  {
+    "id": 43,
+    "name": "Espresso Coffee",
+    "category": "Beverages",
+    "description": "Strong, rich espresso shot for a quick caffeine boost. Ideal for coffee lovers.",
+    "label": "Strong & Bold",
+    "price": 2.75,
+    "featured": false,
+    "image": "/images/Espresso_coffee.jpeg"
+  },
+  {
+    "id": 44,
+    "name": "Creamy pesto penny pasta",
+    "category": "Pasta",
+    "description": "Penne pasta tossed in a creamy basil pesto sauce. Rich, flavorful, and satisfying.",
+    "label": "Creamy & Tasty",
+    "price": 13.00,
+    "featured": false,
+    "image": "/images/Creamy_pesto_penny_pasta.jpeg"
+  },
+  {
+    "id": 45,
+    "name": "Coffee",
+    "category": "Beverages",
+    "description": "Freshly brewed coffee made from quality beans. Perfect for a morning pick-me-up or afternoon break.",
+    "label": "Best Coffee",
+    "price": 3.00,
+    "featured": false,
+    "image": "/images/Coffee.jpeg"
+  },
+  {
+    "id": 46,
+    "name": "Coconut mojito pitcher",
+    "category": "Beverages",
+    "description": "A tropical twist on the classic mojito with coconut flavor, mint, lime, and rum. Perfect for sharing.",
+    "label": "Tropical Delight",
+    "price": 20.00,
+    "featured": false,
+    "image": "/images/Coconut_mojito_pitcher.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Cocojito",
+    "category": "Beverages",
+    "description": "A refreshing cocktail with coconut flavor, rum, mint, and lime. Cool and invigorating.",
+    "label": "Best Coconut Drink",
+    "price": 8.99,
+    "featured": true,
+    "image": "/images/Cocojito.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Chicken tomato pesto panini",
+    "category": "Sandwiches",
+    "description": "Grilled panini with chicken, tomato, and pesto sauce. Crispy, flavorful, and satisfying.",
+    "label": "Delicious Panini",
+    "price": 7.99,
+    "featured": false,
+    "image": "/images/Chicken_Tomato_pesto_panini.jpeg"
+  },
+  {
+    "id": 49,
+    "name": "Chicken burritto bowl",
+    "category": "Burritto",
+    "description": "A hearty bowl with grilled chicken, rice, beans, and fresh toppings. Filling and flavorful.",
+    "label": "Best Burrito Bowl",
+    "price": 9.99,
+    "featured": false,
+    "image": "/images/Chicken_burritto_bowl.jpeg"
+  },
+  {
+    "id": 50,
+    "name": "Chicken burrtto",
+    "category": "Burritto",
+    "description": "A tasty chicken wrap filled with fresh veggies and sauces. Perfect for a quick lunch.",
+    "label": "Quick & Tasty",
+    "price": 6.75,
+    "featured": false,
+    "image": "/images/Chicken_burrtto.jpeg"
+  },
+  {
+    "id": 51,
+    "name": "Chocolate brownies",
+    "category": "Desserts",
+    "description": "Rich, fudgy brownies filled with chocolate chunks. Perfect for chocolate lovers.",
+    "label": "Best Brownies",
+    "price": 4.99,
+    "featured": false,
+    "image": "/images/Chocolate_brownies.jpeg"
+  },
+  {
+    "id": 52,
+    "name": "Chopped greek salad",
+    "category": "Salad",
+    "description": "A fresh Greek salad with cucumbers, tomatoes, olives, feta, and a light vinaigrette. Healthy and flavorful.",
+    "label": "Authentic Greek",
+    "price": 7.25,
+    "featured": false,
+    "image": "/images/Chopped_greek_salad.jpg"
+  }
+]
