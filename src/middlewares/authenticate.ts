@@ -44,4 +44,4 @@ passport.use(
   })
 );
 
-export const verifyUser = passport.authenticate('jwt', { session: false });
+export const verifyUser = passport.authenticate('local', { session: false });
