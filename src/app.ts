@@ -9,6 +9,7 @@ import mongoose from 'mongoose';
 import bodyParser from 'body-parser';
 import session from 'express-session';
 import DishRouter from './routes/DishRoutes';
+import OrderRouter from './routes/OrderRoutes';
 
 const app:any=express();
 const port=process.env.PORT || 3000;
@@ -53,6 +54,7 @@ app.use(passport.initialize())
 
 app.use("/user",UserRouter);
 app.use("/dish",DishRouter);
+app.use("/order",OrderRouter)
 
 app.get("/",(req:Request,res:Response)=>{
     res.render('index')
