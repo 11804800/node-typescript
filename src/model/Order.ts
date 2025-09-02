@@ -27,10 +27,6 @@ const Order = new Schema<OrderInterface>({
         type: Schema.Types.ObjectId,
         ref: "user",
         required: true
-    },
-    totalprice: {
-        type: Number,
-        default: 0
     }
 }, {
     timestamps: true
